@@ -1,14 +1,14 @@
 Package: nag
-Version: 1.0.0
+Version: 2.0.1
 Architecture: all
 Maintainer: NAGYs77 <ton-email@example.com>
 Depends: openjdk-17-jre-headless | openjdk-21-jre-headless | openjdk-25-jre-headless
 Recommends: tmux
-Filename: ./nag_1.0.0_all.deb
-Size: 516086
-MD5sum: 19fe199848ec5de6b3ddc260e33eeba5
-SHA1: 5e113d0cd91b40890dce8767616a675a9d53512d
-SHA256: 08cc355a68ae9940d20a1d4bd0e408c69a7c6bdddc5dfde56460cc7efc705b5d
+Filename: ./pool/main/n/nag/nag_2.0.1_all.deb
+Size: 522416
+MD5sum: b0833b38f21ccb0b2ae1ae1dc1865427
+SHA1: eeff13806629d256182c598b2a9348e1115bf1d9
+SHA256: 49f9e996ca550fccaf00aafd14083595eb15ff007d030ba33937e4452d8d7737
 Section: utils
 Priority: optional
 Description: Historique de commandes interactif (Tab Tab)
