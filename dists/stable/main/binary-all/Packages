@@ -1,0 +1,17 @@
+Package: nag
+Version: 1.0.0
+Architecture: all
+Maintainer: NAGYs77 <ton-email@example.com>
+Depends: openjdk-17-jre-headless | openjdk-21-jre-headless | openjdk-25-jre-headless
+Recommends: tmux
+Filename: pool/main/n/nag/nag_1.0.0_all.deb
+Size: 521846
+MD5sum: b3f45668bd42cf4b0e22510749db863d
+SHA1: f0d5c7c7a3b5f7f8000580caed6849d08c9fca4a
+SHA256: 251c2af24f1d64bd89102154fa996963a2a38d6b147cacf5a6be294f36c00a32
+Section: utils
+Priority: optional
+Description: Historique de commandes interactif (Tab Tab)
+ Appuie deux fois sur Tab pour ouvrir l'historique,
+ choisis une commande et elle est collee dans le terminal.
+
