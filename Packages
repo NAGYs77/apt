@@ -1,17 +1,19 @@
 Package: nag
-Version: 2.0.2
+Version: 2.0.3
 Architecture: all
-Maintainer: NAGYs77 <ton-email@example.com>
+Maintainer: NAGYs77 <hassadsallah@gmail.com>
 Depends: openjdk-17-jre-headless | openjdk-21-jre-headless | openjdk-25-jre-headless
 Recommends: tmux
-Filename: ./nag_2.0.2_all.deb
-Size: 522394
-MD5sum: ca7015dfad66f9f61b176231e4235e1f
-SHA1: 40b2a4691c599465d2680dbfed17fba93d1f2300
-SHA256: 499d6fc850a6c87d3c4015b5cec127e060b0e35d70dc5305ab94e6fc6d6ee69c
+Filename: ./nag_2.0.3_all.deb
+Size: 522238
+MD5sum: e21c40f86982133a503df768701baeff
+SHA1: 057f74ca17c667c27437cd6a68f712343636750c
+SHA256: e31522e362a02edb1f96c4b0fbac1e10137a4c33f5a1a81e842c92e3af83232f
 Section: utils
 Priority: optional
 Description: Historique de commandes interactif (Tab Tab)
+ ecrire le debut de la ligne de commande seulement ,
+ 3 caractères ,
  Appuie deux fois sur Tab pour ouvrir l'historique,
- choisis une commande et elle est collee dans le terminal.
+ choisis une commande que vous voulez utiliser et elle est collee dans le terminal.
 
